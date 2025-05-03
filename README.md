@@ -17,7 +17,7 @@
 
 🛠️ Technologies Used
 
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, Bootstrap
 - PHP 8.x
 - MySQL (MariaDB)
 - XAMPP (Apache & MySQL)
